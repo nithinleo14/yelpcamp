@@ -1,0 +1,13 @@
+.thumbnail img {
+    width: 100%;
+    border-radius: 2px;
+}
+
+.thumbnail {
+    padding: 0;
+
+}
+
+.deleteform {
+    display: inline-block;
+}
