@@ -20,7 +20,7 @@ var campgroundRoute = require("./routes/campgrounds"),
 
 
 //var uri = "mongodb://localhost/yelp_campv13"
-var uri = "mongodb://leo:leo12515@ds041327.mlab.com:41327/yelpcamp12515"
+//var uri = "mongodb://leo:leo12515@ds041327.mlab.com:41327/yelpcamp12515"
 mongoose.connect(process.env.DATABASEURL, { useNewUrlParser: true });
 app.use(bodyParser.urlencoded({ extended: true }));
 app.set("view engine", "ejs");
