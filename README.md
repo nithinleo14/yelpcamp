@@ -1,7 +1,7 @@
 # YelpCamp	
 [yelpcamp.leoirus.in](https://yelpcamp.leoirus.in)
 
-**YelpCamp** is a Web Application implemented using MEAN Stack technologies which displays the campground details, the user ratings, comments. This application implements Mongo DB CRUD (Create Read Update Delete) operations by using Mongoose library in Node-JS. Application uses Passport.js authentication for user login so that the user can add/edit/delete their own campgrounds.
+**YelpCamp** is a Web Application which displays the campground details, the user ratings, comments. This application implements Mongo DB CRUD (Create Read Update Delete) operations by using Mongoose library in Node-JS. Application uses Passport.js authentication for user login so that the user can add/edit/delete their own campgrounds.
 
 ### Build Stack 
 
